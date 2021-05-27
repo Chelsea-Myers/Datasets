@@ -1,2 +1,1 @@
-# Lambda-Intro
-Lambda School teaching demo
+# Interesting statistics datasets
